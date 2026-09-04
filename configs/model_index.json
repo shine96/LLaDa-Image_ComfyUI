@@ -1,0 +1,36 @@
+{
+  "_class_name": "LLaDAImagePipeline",
+  "_diffusers_version": "0.40.0.dev0",
+  "queryformer": [
+    "diffusers",
+    "LLaDAImageQueryFormerModel"
+  ],
+  "scheduler": [
+    "diffusers",
+    "FlowMatchEulerDiscreteScheduler"
+  ],
+  "sigvq": [
+    "diffusers",
+    "LLaDAImageSigVQModel"
+  ],
+  "text_encoder": [
+    "modeling_llada2uni_moe",
+    "LLaDA2MoeModelLM"
+  ],
+  "text_projection": [
+    "diffusers",
+    "LLaDAImageTextProjectionModel"
+  ],
+  "tokenizer": [
+    "transformers",
+    "PreTrainedTokenizerFast"
+  ],
+  "transformer": [
+    "diffusers",
+    "LLaDAImageTransformer2DModel"
+  ],
+  "vae": [
+    "diffusers",
+    "AutoencoderKLFlux2"
+  ]
+}

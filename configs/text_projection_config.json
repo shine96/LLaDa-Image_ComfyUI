@@ -1,0 +1,11 @@
+{
+  "_class_name": "LLaDAImageTextProjectionModel",
+  "_diffusers_version": "0.40.0.dev0",
+  "attention_dropout": 0.0,
+  "hidden_size": 2048,
+  "intermediate_size": 8960,
+  "norm_eps": 1e-06,
+  "num_attention_heads": 32,
+  "num_hidden_layers": 6,
+  "projection_dim": 2560
+}

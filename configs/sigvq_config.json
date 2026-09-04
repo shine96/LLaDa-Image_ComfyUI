@@ -1,0 +1,17 @@
+{
+  "_class_name": "LLaDAImageSigVQModel",
+  "_diffusers_version": "0.40.0.dev0",
+  "attention_bias": true,
+  "attention_dropout": 0.0,
+  "codebook_embed_dim": 2048,
+  "codebook_size": 16384,
+  "hidden_size": 1536,
+  "image_size": 2048,
+  "in_channels": 3,
+  "intermediate_size": 6144,
+  "norm_eps": 1e-06,
+  "num_attention_heads": 16,
+  "num_hidden_layers": 40,
+  "patch_size": 16,
+  "semantic_embed_dim": 4096
+}
