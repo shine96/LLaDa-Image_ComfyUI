@@ -6,8 +6,8 @@ This project is built around the official LLaDA-Image-Turbo model from inclusion
 
 ## Links
 
-- **Model weights / Hugging Face:** https://huggingface.co/mimic1996/LLaDa-Image-Turbo_ComfyUI
-- **This ComfyUI node repository:** https://github.com/shine96/ComfyUI_LLaDa_Image_Turbo
+- **Model weights / Hugging Face:** https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI
+- **This ComfyUI node repository:** https://github.com/RealRebelAI/LLaDa-Image_ComfyUI
 - **Official LLaDA-Image-Turbo:** https://huggingface.co/inclusionAI/LLaDA-Image-Turbo
 - **Official LLaDA-Image source:** https://github.com/inclusionAI/LLaDA-Image
 
