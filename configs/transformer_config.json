@@ -1,0 +1,31 @@
+{
+  "_class_name": "LLaDAImageTransformer2DModel",
+  "_diffusers_version": "0.40.0.dev0",
+  "all_f_patch_size": [
+    1
+  ],
+  "all_patch_size": [
+    1
+  ],
+  "axes_dims": [
+    32,
+    48,
+    48
+  ],
+  "axes_lens": [
+    32768,
+    1024,
+    1024
+  ],
+  "cap_feat_dim": 2560,
+  "dim": 3840,
+  "in_channels": 128,
+  "n_heads": 30,
+  "n_layers": 30,
+  "n_refiner_layers": 2,
+  "norm_eps": 1e-05,
+  "qk_norm": true,
+  "rope_theta": 256.0,
+  "semantic_feat_dim": 4096,
+  "t_scale": 1000.0
+}
